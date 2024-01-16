@@ -1,4 +1,4 @@
-package org.example.postman;
+package org.example.models.postman;
 
 import lombok.Builder;
 import lombok.Data;

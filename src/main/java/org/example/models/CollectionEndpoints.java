@@ -1,14 +1,16 @@
-package org.example;
+package org.example.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class ApiParameter {
+public class CollectionEndpoints {
 
     private String name;
-    private String value;
+    private List<Endpoint> endpoints;
 }
