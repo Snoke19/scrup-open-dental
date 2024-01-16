@@ -4,13 +4,11 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class CollectionEndpoints {
+public class ApiParameter {
 
     private String name;
-    private List<Endpoint> endpoints;
+    private String value;
 }
