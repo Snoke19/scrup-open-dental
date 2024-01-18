@@ -1,6 +1,6 @@
-Scrapped data from this website https://www.opendental.com/site/apiaccountmodules.html;
+Scrapped data from this website [https://www.opendental.com/site/apiaccountmodules.html](https://www.opendental.com/site/apispecification.html);
 
-Small example:
+Small example (https://www.opendental.com/site/apiaccountmodules.html):
 ```json
 {
    "item":[
